@@ -1,0 +1,24 @@
+body{font-family: 'Roboto', sans-serif;
+margin:0%}
+h1{font-size: 50px;}
+.color{color:coral;}
+.link-button{text-decoration: none;
+padding: 10px 25px;
+border-radius: 35px;
+background-image: linear-gradient(gold, goldenrod);
+color:snow;
+text-align: center;}
+.text-width{width: 50%;
+padding-left: 50px;
+padding-top: 80px;
+margin: 0px;}
+.display{display: flex;
+    text-size-adjust: 100%;
+    padding-bottom: 70px;
+}
+.background{background-image: url(image/MUN-WORK-B.png);
+    width: 1990 height: 1080;
+background-repeat: no-repeat;
+background-size:100%;
+background-position: right;}
+.img-style{image-position:center}
