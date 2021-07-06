@@ -7,18 +7,48 @@ padding: 10px 25px;
 border-radius: 35px;
 background-image: linear-gradient(gold, goldenrod);
 color:snow;
-text-align: center;}
+text-align: center;
+box-shadow: 5px 5px 5px rgb(233, 213, 100);}
 .text-width{width: 50%;
-padding-left: 50px;
-padding-top: 80px;
+padding-left: 8%;
+padding-top: 8%;
 margin: 0px;}
 .display{display: flex;
     text-size-adjust: 100%;
-    padding-bottom: 70px;
+    padding-bottom: 100px;
 }
-.background{background-image: url(image/MUN-WORK-B.png);
-    width: 1990 height: 1080;
+.background{background-image: url(image/7.png);
 background-repeat: no-repeat;
 background-size:100%;
-background-position: right;}
-.img-style{image-position:center}
+display: flex;
+text-size-adjust: 100%;
+padding: 0%;
+}
+.img-style{padding: 5% 10%;}
+.aboutme{width: 50%;
+padding: 15% 10%;
+color: dimgray;
+text-align: center;}
+.myrecipe{width: 50%;
+    padding:2% 25%;
+    color: dimgray;
+    text-align: center;}
+.style{border-radius: 10%;}
+.flex{width: 23%;
+margin: 0% 5%;
+padding: 5px 5px;
+box-shadow: 5px 5px 10px grey;
+border-radius: 10%;
+text-align: center;}
+footer{width:100%;
+    margin: 0%;
+    text-align: center;
+background-color: rgb(17, 17, 17);
+border:30px solid black;
+color:ghostwhite;}
+#followers{display:flex;
+    box-shadow: 5px 5px 10px grey;
+margin: 5%;}
+.follow{margin:0% 5%;
+padding: 0% 8%;
+text-align: center;}
